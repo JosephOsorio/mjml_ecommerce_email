@@ -1,0 +1,447 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text align="center" color="#555" />
+      <mj-section background-color="#fff" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#2f2f2f">
+    <!-- Header Logo -->
+    <mj-section background-color="#b6c3c8">
+      <mj-column padding="15px">
+        <mj-image href="https://www.josephosorio.dev" width="64px" src="https://www.oesso.host/mjml_projects/ecommerce_one/jo_monogram.png" />
+      </mj-column>
+    </mj-section>
+    <!-- Header Hero -->
+    <mj-section padding="0">
+      <mj-column background-color="#b6c3c8">
+        <mj-image href="https://www.josephosorio.dev" padding="0" src="https://www.oesso.host/mjml_projects/ecommerce_one/hero_animation.gif" />
+      </mj-column>
+    </mj-section>
+    <!-- Categories Title  -->
+    <mj-section>
+      <mj-column>
+        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="24px">NAVIGATE OUR</mj-text>
+        <mj-text font-family="Arial, Helvetica, sans-serif" font-size="48px" font-weight="bold">CATEGORIES</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Categories Navigation -->
+    <mj-section>
+      <mj-column>
+        <mj-table cellpadding="0" cellspacing="0">
+          <tr>
+            <td align="center">
+              <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;">
+                <tr>
+                  <td style="border-right: 3px solid #b6c3c8;"> <a href="https://www.josephosorio.dev" target="_blank"> <img src="https://www.oesso.host/mjml_projects/ecommerce_one/categorie-flowers_icon_a2.png" alt="Shop Flowers" width="250" heigth="250" style="display: block; width: 100%; max-width: 250px">
+                    </a>
+                  </td>
+                  <td> <a href="https://www.josephosorio.dev" target="_blank">
+                      <img src="https://www.oesso.host/mjml_projects/ecommerce_one/categorie-gift_icon_a2.png" alt="Shop Flowers" width="250" heigth="250" style="display: block; width: 100%; max-width: 250px">
+                    </a>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="border-top: 3px solid #b6c3c8; border-right: 3px solid #b6c3c8;"> <a href="https://www.josephosorio.dev" target="_blank">
+                      <img src="https://www.oesso.host/mjml_projects/ecommerce_one/categorie-flowers_icon_a2.png" alt="Shop Flowers" width="250" height="250" style="display: block; width: 100%; max-width: 250px">
+                    </a>
+                  </td>
+                  <td style="border-top: 3px solid #b6c3c8;"> <a href="https://www.josephosorio.dev" target="_blank">
+                      <img src="https://www.oesso.host/mjml_projects/ecommerce_one/categorie-gift_icon_a2.png" alt="Shop Flowers" width="250" heigth="250" style="display: block; width: 100%; max-width: 250px">
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <!-- Summer Sale CTA -->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://www.oesso.host/mjml_projects/ecommerce_one/sales-cta_img_a2.png
+" href="https://www.josephosorio.dev" padding="0" />
+      </mj-column>
+    </mj-section>
+    <!-- Bouquets Title  -->
+    <mj-section>
+      <mj-column>
+        <mj-text font-family="Arial, Helvetica, sans-serif" color="#2f2f2f" font-size="24px">HUGE SELECTIONS</mj-text>
+        <mj-text font-family="Arial, Helvetica, sans-serif" color="#2f2f2f" font-size="48px" font-weight="bold">BOUQUETS</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 1st Row Products -->
+    <mj-section>
+      <mj-column width="50%">
+        <mj-table cellpadding="0" cellspacing="0">
+          <tr>
+            <td align="center" style="padding-top: 10px; padding-bottom: 5px">
+              <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;">
+                <tr>
+                  <td>
+                    <a href="https://www.josephosorio.dev" target="_blank">
+                      <img src="https://www.oesso.host/mjml_projects/ecommerce_one/product-1_img.png" width="250" style="display: block; border: 0px; width: 100%; max-width: 250px;"></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <p style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; color: #b6c3c8;"> Spring Blush </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <p style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; color: #2f2f2f; font-weight: bold; margin: 5px"> PRICES FROM </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;">
+                      <tr>
+                        <td align="center">
+                          <p style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; color: #2f2f2f; margin: 5px"> $50 - $350 </p>
+                        </td>
+                        <td style="padding-left: 15px;">
+                          <a href="https://www.josephosorio.dev" target="_blank">
+                            <img src="https://www.oesso.host/mjml_projects/ecommerce_one/shop_icon.png" width="14" style="display: block; border: 0px;  width: 100%;  max-width: 14px;"></a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-table cellpadding="0" cellspacing="0">
+          <tr>
+            <td align="center" style="padding-top: 10px;  padding-bottom: 5px">
+              <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;">
+                <tr>
+                  <td>
+                    <a href="https://www.josephosorio.dev" target="_blank">
+                      <img src="https://www.oesso.host/mjml_projects/ecommerce_one/product-2_img.png" width="250" height="250" style="display: block; border: 0px; width: 100%; max-width: 250px;"></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <p style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; color: #b6c3c8;"> Spring Blush </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <p style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; color: #2f2f2f; font-weight: bold; margin: 5px"> PRICES FROM </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;">
+                      <tr>
+                        <td align="center">
+                          <p style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; color: #2f2f2f; margin: 5px"> $50 - $350 </p>
+                        </td>
+                        <td style="padding-left: 15px;">
+                          <a href="https://www.josephosorio.dev" target="_blank">
+                            <img src="https://www.oesso.host/mjml_projects/ecommerce_one/shop_icon.png" width="14" style="display: block; border: 0px;  width: 100%;  max-width: 14px;"></a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <!-- 2nd Row Products -->
+    <mj-section>
+      <mj-column width="50%">
+        <mj-table cellpadding="0" cellspacing="0">
+          <tr>
+            <td align="center" style="padding-top: 10px; padding-bottom: 5px">
+              <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;">
+                <tr>
+                  <td>
+                    <a href="https://www.josephosorio.dev" target="_blank">
+                      <img src="https://www.oesso.host/mjml_projects/ecommerce_one/product-3_img.png" width="250" style="display: block; border: 0px; width: 100%; max-width: 250px;"></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <p style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; color: #b6c3c8;"> Spring Blush </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <p style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; color: #2f2f2f; font-weight: bold; margin: 5px"> PRICES FROM </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;">
+                      <tr>
+                        <td align="center">
+                          <p style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; color: #2f2f2f; margin: 5px"> $50 - $350 </p>
+                        </td>
+                        <td style="padding-left: 15px;">
+                          <a href="https://www.josephosorio.dev" target="_blank">
+                            <img src="https://www.oesso.host/mjml_projects/ecommerce_one/shop_icon.png" width="14" style="display: block; border: 0px;  width: 100%;  max-width: 14px;"></a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-table cellpadding="0" cellspacing="0">
+          <tr>
+            <td align="center" style="padding-top: 10px; padding-bottom: 5px">
+              <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;">
+                <tr>
+                  <td>
+                    <a href="https://www.josephosorio.dev" target="_blank">
+                      <img src="https://www.oesso.host/mjml_projects/ecommerce_one/product-4_img.png" width="250" height="250" style="display: block; border: 0px; width: 100%; max-width: 250px;"></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <p style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; color: #b6c3c8;"> Spring Blush </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <p style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; color: #2f2f2f; font-weight: bold; margin: 5px"> PRICES FROM </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;">
+                      <tr>
+                        <td align="center">
+                          <p style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; color: #2f2f2f; margin: 5px"> $50 - $350 </p>
+                        </td>
+                        <td style="padding-left: 15px;">
+                          <a href="https://www.josephosorio.dev" target="_blank">
+                            <img src="https://www.oesso.host/mjml_projects/ecommerce_one/shop_icon.png" width="14" style="display: block; border: 0px;  width: 100%;  max-width: 14px;"></a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <!-- 3rd Row Products -->
+    <mj-section>
+      <mj-column width="50%">
+        <mj-table cellpadding="0" cellspacing="0">
+          <tr>
+            <td align="center" style="padding-top: 10px; padding-bottom: 5px">
+              <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;">
+                <tr>
+                  <td>
+                    <a href="https://www.josephosorio.dev" target="_blank">
+                      <img src="https://www.oesso.host/mjml_projects/ecommerce_one/product-5_img.png" width="250" style="display: block; border: 0px; width: 100%; max-width: 250px;"></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <p style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; color: #b6c3c8;"> Spring Blush </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <p style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; color: #2f2f2f; font-weight: bold; margin: 5px"> PRICES FROM </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;">
+                      <tr>
+                        <td align="center">
+                          <p style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; color: #2f2f2f; margin: 5px"> $50 - $350 </p>
+                        </td>
+                        <td style="padding-left: 15px;">
+                          <a href="https://www.josephosorio.dev" target="_blank">
+                            <img src="https://www.oesso.host/mjml_projects/ecommerce_one/shop_icon.png" width="14" style="display: block; border: 0px;  width: 100%;  max-width: 14px;"></a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-table cellpadding="0" cellspacing="0">
+          <tr>
+            <td align="center" style="padding-top: 10px; padding-bottom: 5px">
+              <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;">
+                <tr>
+                  <td>
+                    <a href="https://www.josephosorio.dev" target="_blank">
+                      <img src="https://www.oesso.host/mjml_projects/ecommerce_one/product-6_img.png" width="250" height="250" style="display: block; border: 0px; width: 100%; max-width: 250px;"></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <p style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; color: #b6c3c8;"> Spring Blush </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <p style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; color: #2f2f2f; font-weight: bold; margin: 5px"> PRICES FROM </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center">
+                    <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;">
+                      <tr>
+                        <td align="center">
+                          <p style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; color: #2f2f2f; margin: 5px"> $50 - $350 </p>
+                        </td>
+                        <td style="padding-left: 15px;">
+                          <a href="https://www.josephosorio.dev" target="_blank">
+                            <img src="https://www.oesso.host/mjml_projects/ecommerce_one/shop_icon.png" width="14" style="display: block; border: 0px;  width: 100%;  max-width: 14px;"></a>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <!-- Bouquets Title  -->
+    <mj-section>
+      <mj-column>
+        <mj-text font-family="Arial, Helvetica, sans-serif" color="#2f2f2f" font-size="24px">WE COVER</mj-text>
+        <mj-text font-family="Arial, Helvetica, sans-serif" color="#2f2f2f" font-size="48px" font-weight="bold">ONLINE ORDERS</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Online Orders CTA -->
+    <mj-section>
+      <mj-column width="50%">
+        <mj-table cellpadding="0" cellspacing="0">
+          <tr>
+            <td align="center" style="padding-top: 10px; padding-bottom: 5px">
+              <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;">
+                <tr>
+                  <td>
+                    <a href="https://www.josephosorio.dev" target="_blank">
+                      <img src="https://www.oesso.host/mjml_projects/ecommerce_one/online-orders_img.png" width="250" style="display: block; border: 0px; width: 100%; max-width: 250px;"></a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+      <mj-column width="50%">
+        <mj-table cellpadding="0" cellspacing="0">
+          <tr>
+            <td style="padding-top: 10px; padding-bottom: 5px">
+              <table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse;">
+                <tr>
+                  <td align="left">
+                    <p style="font-family: Arial, Helvetica, sans-serif; font-size: 24px; font-weight: bold; color: #b6c3c8;"> First Time Buying Online </p>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="left">
+                    <p style="font-family: Arial, Helvetica, sans-serif; font-size: 20px; color: #2f2f2f; margin: 5px">Get 25% OFF FREE shipping orders $30 and Over</p>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="padding-top: 15px">
+                    <div>
+                      <!--[if mso]>
+  <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://www.josephosorio.dev" style="height:40px; font-size: 16px; v-text-anchor:middle;width:200px;" arcsize="25%" stroke="f" fillcolor="#2f2f2f">
+    <w:anchorlock/>
+    <center>
+  <![endif]-->
+                      <a href="https://www.josephosorio.dev" style="background-color:#2f2f2f;border-radius:10px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:16px;font-weight:bold;line-height:40px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;">MAKE ORDER</a>
+                      <!--[if mso]>
+    </center>
+  </v:roundrect>
+<![endif]-->
+                    </div>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <!-- Shipping Image -->
+    <mj-section padding="0">
+      <mj-column>
+        <mj-image src="https://www.oesso.host/mjml_projects/ecommerce_one/shipping-process_img.png" width="400px" padding="0" />
+      </mj-column>
+    </mj-section>
+    <!-- Spacer -->
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="25px" />
+      </mj-column>
+    </mj-section>
+    <!-- Footer -->
+    <mj-wrapper padding="0">
+      <mj-section>
+        <mj-column>
+          <mj-image src="https://www.oesso.host/mjml_projects/ecommerce_one/footer_logo.png" width="150px" align="left" />
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-table cellpadding="0" cellspacing="0">
+            <tr>
+              <td> <a href="https://www.josephosorio.dev" target="_blank" style="text-decoration: none;"> <span style="color: #2f2f2f; font-weight: bold; font-size: 18px">Domain.com</span></a>&nbsp; &nbsp;&nbsp; <a href="https://www.josephosorio.dev" target="_blank" style="text-decoration: none;"> <span style="color: #2f2f2f; font-weight: bold; font-size: 18px">Facebook</span></a> &nbsp;&nbsp;&nbsp; <a href="https://www.josephosorio.dev" target="_blank" style="text-decoration: none;"> <span style="color: #2f2f2f; font-weight: bold; font-size: 18px">Instagram</span></a></td>
+            </tr>
+            <tr>
+              <td style="padding-top: 10px"> If you have questions or need help with a return or purchased item don’t hesitate to contact our support team! <a href="mailto:support@josephosorio.com" style="text-decoration: none"><span style="font-family: arial, helvetica, san-serif; color: #2f2f2f; font-weight: bold;">support@josephosorio.com</span></a>
+              </td>
+            </tr>
+            <tr>
+              <td style="padding-top: 10px"> JO USA Corp, 14505 Adress Street City & State, Zip Code Country Name </td>
+            </tr>
+            <tr>
+              <td style="padding-top: 15px;"> <a href="https://www.josephosorio.dev" target="_blank" style="text-decoration: none;"> <span style="color: #2f2f2f; font-weight: bold; font-size: 18px">Contact Us</span></a>&nbsp; &nbsp;&nbsp; <a href="https://www.josephosorio.dev" target="_blank" style="text-decoration: none;"> <span style="color: #2f2f2f; font-weight: bold; font-size: 18px">Privacy Policy</span></a> &nbsp;&nbsp;&nbsp; <a href="https://www.josephosorio.dev" target="_blank" style="text-decoration: none;"> <span style="color: #2f2f2f; font-weight: bold; font-size: 18px">Terms & Conditions</span></a></td>
+            </tr>
+            <tr>
+              <td style="padding-top: 10px"> This message was sent to emailname@domain.com. If you no longer want to receive this Emails you can go ahead and <b>unsubscribe</b></td>
+            </tr>
+          </mj-table>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!-- Spacer -->
+    <mj-section>
+      <mj-column>
+        <mj-spacer height="5px" />
+      </mj-column>
+    </mj-section>
+    <!-- Spacer -->
+    <!-- Footer Image Wave -->
+    <mj-section padding="0" background-color="#b6c3c8">
+      <mj-column>
+        <mj-image src="https://www.oesso.host/mjml_projects/ecommerce_one/footer-wave_img.png" padding="0" width="600px" />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
